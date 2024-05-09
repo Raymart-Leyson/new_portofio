@@ -1,5 +1,15 @@
 [
   {
+    "name": "Pokemon Website v1.0",
+    "desc": "Select a starter pokemon with details and stats",
+    "image": "pokemon",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/CITUCCS/csit341-react-exercise-2-Raymart-Leyson"
+    }
+  },
+  {
     "name": "Portfolio Website v2.0",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
