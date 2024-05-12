@@ -1,11 +1,31 @@
 [
   {
+    "name": "Barangay Api",
+    "desc": "Web Api used for barangay information using ASP.NET Core and C#",
+    "image": "barangay",
+    "category": "api",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Raymart-Leyson/barangay-api"
+    }
+  },
+  {
+    "name": "Discussify Api",
+    "desc": "Web Api used for engagement in classroom using ASP.NET Core and C#",
+    "image": "discussify",
+    "category": "api",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Raymart-Leyson/discussify-api-project"
+    }
+  },
+  {
     "name": "Pokemon Website v1.0",
     "desc": "Select a starter pokemon with details and stats",
     "image": "pokemon",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "",
       "code": "https://github.com/CITUCCS/csit341-react-exercise-2-Raymart-Leyson"
     }
   },
@@ -13,7 +33,7 @@
     "name": "Portfolio Website v2.0",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
-    "category": "basicweb",
+    "category": "portfolio",
     "links": {
       "view": "https://leyson.netlify.app",
       "code": "https://github.com/Raymart-Leyson/new_portofio"
@@ -23,7 +43,7 @@
     "name": "Portfolio Website v1.0",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio2",
-    "category": "basicweb",
+    "category": "portfolio",
     "links": {
       "view": "https://rnl.netlify.app",
       "code": "https://github.com/Raymart-Leyson/new_portofio"
