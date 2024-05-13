@@ -1,7 +1,7 @@
 [
   {
     "name": "Barangay Api",
-    "desc": "Web Api used for barangay information using ASP.NET Core and C#",
+    "desc": "Api used for Barangay information using ASP.NET Core and C#",
     "image": "barangay",
     "category": "api",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Discussify Api",
-    "desc": "Web Api used for engagement in classroom using ASP.NET Core and C#",
+    "desc": "Api Used for Teacher and Student engagement using ASP.NET Core and C#",
     "image": "discussify",
     "category": "api",
     "links": {
