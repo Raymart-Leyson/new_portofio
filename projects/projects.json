@@ -1,5 +1,14 @@
 [
   {
+    "name": "3s Methodology FullStack App",
+    "desc": "3s Methodology website that use computer vision to count objects and identify unclean area",
+    "image": "3s",
+    "category": "fullstack",
+    "links": {
+      "view": "https://3s-citu.netlify.app/",
+      "code": ""
+    }
+  },{
     "name": "Barangay Api",
     "desc": "Api used for Barangay information using ASP.NET Core and C#",
     "image": "barangay",
