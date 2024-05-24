@@ -3,7 +3,7 @@
     "name": "3s Methodology FullStack App",
     "desc": "fullstack web app that use computer vision and .net, email:user@gmail.com password: user, pm for more info",
     "image": "3s",
-    "category": "fullstack",
+    "category": "basicweb",
     "links": {
       "view": "https://3s-citu.netlify.app/",
       "code": ""
