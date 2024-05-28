@@ -5,8 +5,7 @@
     "image": "3s",
     "category": "basicweb",
     "links": {
-      "view": "https://3s-citu.netlify.app/",
-      "code": ""
+      "view": "https://3s-citu.netlify.app/"
     }
   },{
     "name": "Barangay Api",
@@ -45,16 +44,6 @@
     "category": "portfolio",
     "links": {
       "view": "https://leyson.netlify.app",
-      "code": "https://github.com/Raymart-Leyson/new_portofio"
-    }
-  },
-  {
-    "name": "Portfolio Website v1.0",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio2",
-    "category": "portfolio",
-    "links": {
-      "view": "https://rnl.netlify.app",
       "code": "https://github.com/Raymart-Leyson/new_portofio"
     }
   }
